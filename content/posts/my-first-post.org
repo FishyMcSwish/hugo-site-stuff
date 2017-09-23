@@ -1,0 +1,20 @@
+---
+title: "My First Post"
+date: 2017-09-20T21:08:18-04:00
+draft: false
+---
+* This is my first post
+
+Isn't it nice?
+
+
+| It      | even | has |
+|---------+------+-----|
+| tabular | data | !!! |
+
+#+BEGIN_SRC ruby
+  def fuunnn(n)
+     n
+  end
+  fuunnn (14)
+#+END_SRC
